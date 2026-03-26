@@ -2,7 +2,7 @@
 
 Modern portfolio website for Avinya Technologies, showcasing innovative web and mobile solutions.
 
-**Founded by:** Ayush Pardeshi
+
 
 ## Features
 
